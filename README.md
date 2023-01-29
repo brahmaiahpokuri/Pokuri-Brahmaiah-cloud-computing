@@ -54,3 +54,36 @@ Step 6
 Step 7
 
 <img width="461" alt="2023-01-29 (12)" src="https://user-images.githubusercontent.com/122426938/215328708-a25c15a0-9d96-4938-b6f4-4e5c9f7c20ad.png">
+
+##Experiment 3
+
+Step 1
+
+<img width="509" alt="2023-01-29 (13)" src="https://user-images.githubusercontent.com/122426938/215329263-54efad47-6d6d-4d6e-992e-9ac71959a269.png">
+
+Step 2
+
+<img width="544" alt="2023-01-29 (14)" src="https://user-images.githubusercontent.com/122426938/215329343-ec73cd84-5c62-432f-94ed-93ec9561c4f1.png">
+
+step 3
+
+<img width="512" alt="2023-01-29 (15)" src="https://user-images.githubusercontent.com/122426938/215329394-6a10a3ee-0c94-4af5-9497-5b5e944c95a0.png">
+
+step 4
+
+<img width="474" alt="2023-01-29 (16)" src="https://user-images.githubusercontent.com/122426938/215329430-28d73879-2a7a-414a-b6ae-c96bcfc86467.png">
+
+step 5
+
+<img width="457" alt="2023-01-29 (17)" src="https://user-images.githubusercontent.com/122426938/215329480-56147f6b-a21c-49e3-a3be-283de8744e1a.png">
+
+step 6
+
+<img width="466" alt="2023-01-29 (18)" src="https://user-images.githubusercontent.com/122426938/215329510-32e6b085-a7d7-4f98-ab7d-4993a8facadc.png">
+
+step 7
+
+<img width="497" alt="2023-01-29 (19)" src="https://user-images.githubusercontent.com/122426938/215329546-45de0e1f-8fd9-4aab-97f4-977e16456bc3.png">
+
+
+
